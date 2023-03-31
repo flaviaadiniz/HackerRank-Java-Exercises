@@ -1,4 +1,11 @@
-package io;
+/*
+ Given two strings, interleave the characters of the strings to create a new string. Beginning with an empty
+ string, alternately append a character from string a and a character from string b. If one of the strings is
+ exhausted before the other, append the remaining letters from the other string all at once.
+
+ */
+
+package challenges;
 
 public class Password {
 

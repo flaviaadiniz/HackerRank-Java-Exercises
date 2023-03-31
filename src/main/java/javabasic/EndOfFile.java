@@ -1,8 +1,13 @@
-package io;
+/*
+The challenge here is to read N lines of input until you reach EOF, then number and print all N lines of
+content.
+ */
+
+package javabasic;
 
 import java.util.Scanner;
 
-public class MathTest {
+public class EndOfFile {
 
     public static void main(String[] args) {
 
@@ -11,7 +16,6 @@ public class MathTest {
         for (int i = 1 ; scanner.hasNext(); i++){
             System.out.println(i + " " + scanner.nextLine());
         }
-
 
     }
 

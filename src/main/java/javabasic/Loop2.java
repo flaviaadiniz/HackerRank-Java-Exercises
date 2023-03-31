@@ -1,4 +1,9 @@
-package io;
+/*
+You are given Q queries in the form of A, B, and N. For each query, print the series corresponding to the
+given A, B, and N values as a single line of space-separated integers.
+ */
+
+package javabasic;
 
 import java.util.Scanner;
 
@@ -23,9 +28,8 @@ public class Loop2 {
             }
         }
         in.close();
+
         System.out.println();
-
-
     }
 
 }

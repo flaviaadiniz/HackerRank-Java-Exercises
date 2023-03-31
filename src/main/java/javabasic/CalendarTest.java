@@ -1,11 +1,12 @@
-package io;
+/*
+You are given a date. You just need to write the method, findDay, which returns the day on that date.
+ */
 
-import java.text.Format;
-import java.text.SimpleDateFormat;
+package javabasic;
+
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.format.TextStyle;
-import java.util.Calendar;
 import java.util.Locale;
 
 public class CalendarTest {
@@ -19,7 +20,7 @@ public class CalendarTest {
 
     public static void main(String[] args) {
 
-        System.out.println(findDay(3,29, 2023));
+        System.out.println(findDay(5,4, 1984));
 
     }
 
