@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Reorganized folders and added instructions to each class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabasic/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabasic/StringReverse.java" afterDir="false" />
+    <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Added 2 more String exercises: String Reverse and Anagram">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javabasic/StringTokens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ffdin/IdeaProjects/dining-review&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ffdin/PycharmProjects/Laboratorio-I&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,7 +58,9 @@
       <workItem from="1680027115233" duration="1123000" />
       <workItem from="1680116620772" duration="2672000" />
       <workItem from="1680224895473" duration="2438000" />
-      <workItem from="1680265376213" duration="14524000" />
+      <workItem from="1680265376213" duration="14731000" />
+      <workItem from="1680470819691" duration="2173000" />
+      <workItem from="1680553811278" duration="4734000" />
     </task>
     <task id="LOCAL-00001" summary="Reorganized folders and added instructions to each class">
       <created>1680302760774</created>
@@ -68,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680302760774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added 2 more String exercises: String Reverse and Anagram">
+      <created>1680391151398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680391151398</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +95,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reorganized folders and added instructions to each class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reorganized folders and added instructions to each class" />
+    <MESSAGE value="Added 2 more String exercises: String Reverse and Anagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 2 more String exercises: String Reverse and Anagram" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HackerRank$StringTokens.ic" NAME="StringTokens Coverage Results" MODIFIED="1680557299808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javabasic.*</FILTER>
+    </SUITE>
   </component>
 </project>
