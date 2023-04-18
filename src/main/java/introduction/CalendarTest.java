@@ -2,7 +2,7 @@
 You are given a date. You just need to write the method, findDay, which returns the day on that date.
  */
 
-package javabasic;
+package introduction;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

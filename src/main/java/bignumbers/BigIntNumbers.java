@@ -11,7 +11,7 @@ Output two lines. The first line should contain a + b, and the second line shoul
 Don't print any leading zeros.
  */
 
-package javabasic;
+package bignumbers;
 
 import java.math.BigInteger;
 import java.util.Scanner;

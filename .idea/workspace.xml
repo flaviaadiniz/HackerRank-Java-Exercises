@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Added Primality Test exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabasic/Array1D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabasic/BigIntNumbers.java" afterDir="false" />
+    <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Added Currency Formatter exercise">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javabasic/BigDecimalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javabasic/SubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/Substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/CalendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/CurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/CurrencyFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/EndOfFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/EndOfFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/IfElseWeird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/IfElseWeird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/Loop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/Loop2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/PatternSyntaxChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/PatternSyntaxChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/PrintF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/PrintF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/StringTokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/StringTokens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/SubstringComparisons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/UsernameValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/UsernameValidator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +54,33 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ffdin/PycharmProjects/Laboratorio-I&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ffdin/Desktop/TECH/UNISINOS/Programacao-e-Lab-I&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="JavaList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.JavaList" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabasic.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaList" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +99,9 @@
       <workItem from="1680553811278" duration="11046000" />
       <workItem from="1680696877064" duration="1249000" />
       <workItem from="1680827573860" duration="2323000" />
-      <workItem from="1680905559201" duration="1953000" />
+      <workItem from="1680905559201" duration="13393000" />
+      <workItem from="1681165612143" duration="5807000" />
+      <workItem from="1681744275697" duration="5052000" />
     </task>
     <task id="LOCAL-00001" summary="Reorganized folders and added instructions to each class">
       <created>1680302760774</created>
@@ -103,7 +138,70 @@
       <option name="project" value="LOCAL" />
       <updated>1680834039626</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Array1D and BigIntNumbers exercises">
+      <created>1680908008413</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680908008413</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added ArrayList exercise">
+      <created>1681084875743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681084875743</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added JavaList exercise">
+      <created>1681173388510</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681173388510</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Inheritance I exercise">
+      <created>1681757300251</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681757300251</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Inheritance II exercise">
+      <created>1681757651997</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681757651997</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Method Overriding exercise">
+      <created>1681823851733</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681823851733</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added Method Overriding II exercise">
+      <created>1681824144248</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681824144248</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Currency Formatter exercise">
+      <created>1681852885525</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681852885525</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added Currency Formatter exercise">
+      <created>1681852893029</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681852893029</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,9 +224,20 @@
     <MESSAGE value="Added 1 more String exercises: String Tokens" />
     <MESSAGE value="Added 2 Regex exercises: PatternSyntaxChecker and UsernameValidator" />
     <MESSAGE value="Added Primality Test exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Primality Test exercise" />
+    <MESSAGE value="Added Array1D and BigIntNumbers exercises" />
+    <MESSAGE value="Added ArrayList exercise" />
+    <MESSAGE value="Added JavaList exercise" />
+    <MESSAGE value="Added Inheritance I exercise" />
+    <MESSAGE value="Added Inheritance II exercise" />
+    <MESSAGE value="Added Method Overriding exercise" />
+    <MESSAGE value="Added Method Overriding II exercise" />
+    <MESSAGE value="Added Currency Formatter exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Currency Formatter exercise" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HackerRank$JavaList.ic" NAME="JavaList Coverage Results" MODIFIED="1681167040318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javabasic.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/HackerRank$StringTokens.ic" NAME="StringTokens Coverage Results" MODIFIED="1680557299808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>javabasic.*</FILTER>
     </SUITE>

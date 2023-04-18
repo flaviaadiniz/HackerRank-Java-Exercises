@@ -3,7 +3,7 @@ Given a double-precision number, denoting an amount of money, use the NumberForm
 method to convert  into the US, Indian, Chinese, and French currency formats.
  */
 
-package javabasic;
+package introduction;
 
 import java.text.NumberFormat;
 import java.util.Locale;

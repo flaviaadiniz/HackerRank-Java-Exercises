@@ -12,7 +12,7 @@ For each test case, print Valid if the syntax of the given pattern is correct. O
 Do not print the quotes.
  */
 
-package javabasic;
+package strings;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;

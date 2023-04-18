@@ -5,7 +5,7 @@ Complete the isAnagram function in the editor. If 'a' and 'b' are case-insensiti
 Otherwise, return false.
 */
 
-package javabasic;
+package strings;
 
 import java.util.Arrays;
 

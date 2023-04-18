@@ -3,7 +3,7 @@ A palindrome is a word, phrase, number, or other sequence of characters which re
 Given a string A, print "Yes" if it is a palindrome, print "No" otherwise.
  */
 
-package javabasic;
+package strings;
 
 import java.util.Scanner;
 

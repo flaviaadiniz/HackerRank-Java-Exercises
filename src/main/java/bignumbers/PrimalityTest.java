@@ -3,7 +3,7 @@ Given a large integer, n, use the Java BigInteger class' isProbablePrime method 
 whether it's prime or not prime.
  */
 
-package javabasic;
+package bignumbers;
 
 import java.math.BigInteger;
 import java.util.Scanner;

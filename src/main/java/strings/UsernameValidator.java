@@ -11,7 +11,7 @@ or uppercase character [A-Z].
 
 */
 
-package javabasic;
+package strings;
 
 import java.util.Scanner;
 public class UsernameValidator {

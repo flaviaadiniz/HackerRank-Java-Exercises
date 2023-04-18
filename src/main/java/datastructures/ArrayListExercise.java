@@ -1,4 +1,4 @@
-package javabasic;
+package datastructures;
 
 import java.util.ArrayList;
 import java.util.Scanner;

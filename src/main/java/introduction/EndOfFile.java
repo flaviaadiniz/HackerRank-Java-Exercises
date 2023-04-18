@@ -3,7 +3,7 @@ The challenge here is to read N lines of input until you reach EOF, then number 
 content.
  */
 
-package javabasic;
+package introduction;
 
 import java.util.Scanner;
 

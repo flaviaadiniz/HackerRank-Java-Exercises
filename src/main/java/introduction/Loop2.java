@@ -3,7 +3,7 @@ You are given Q queries in the form of A, B, and N. For each query, print the se
 given A, B, and N values as a single line of space-separated integers.
  */
 
-package javabasic;
+package introduction;
 
 import java.util.Scanner;
 

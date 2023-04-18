@@ -4,7 +4,7 @@ Modify the code in the loop so that it saves each sequential value to its corres
 For example, the first value must be stored in a[0], the second value must be stored in a[1], and so on.
  */
 
-package javabasic;
+package datastructures;
 
 import java.util.Scanner;
 

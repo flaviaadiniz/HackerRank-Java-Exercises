@@ -1,4 +1,4 @@
-package javabasic;
+package objectorientedprogramming;
 
 class Animal {
     void walk() {

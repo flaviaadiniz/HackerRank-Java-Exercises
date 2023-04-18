@@ -8,9 +8,7 @@ Given an integer, n, perform the following conditional actions:
     Complete the stub code provided in your editor to print whether or not  is weird.
 */
 
-package javabasic;
-
-
+package introduction;
 
 public class IfElseWeird {
 

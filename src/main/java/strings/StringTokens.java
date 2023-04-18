@@ -4,7 +4,7 @@ a token to be one or more consecutive English alphabetic letters. Then, print th
 by each token on a new line.
  */
 
-package javabasic;
+package strings;
 
 import java.util.Scanner;
 
