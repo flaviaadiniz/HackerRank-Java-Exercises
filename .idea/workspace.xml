@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Added Currency Formatter exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabasic/BigDecimalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabasic/SubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/Substring.java" afterDir="false" />
+    <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Reorganized packages and classes according to HackerRank subdomains">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/CalendarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/CurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/CurrencyFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/EndOfFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/EndOfFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/IfElseWeird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/IfElseWeird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/Loop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/Loop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/PatternSyntaxChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/PatternSyntaxChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/PrintF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/PrintF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/StringTokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/StringTokens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/SubstringComparisons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javabasic/UsernameValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/UsernameValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectorientedprogramming/InheritanceI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/InheritanceI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectorientedprogramming/InheritanceII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/InheritanceII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectorientedprogramming/MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectorientedprogramming/MethodOverridingII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/MethodOverridingII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +90,9 @@
       <workItem from="1680827573860" duration="2323000" />
       <workItem from="1680905559201" duration="13393000" />
       <workItem from="1681165612143" duration="5807000" />
-      <workItem from="1681744275697" duration="5052000" />
+      <workItem from="1681744275697" duration="5999000" />
+      <workItem from="1681911005550" duration="2010000" />
+      <workItem from="1682297895615" duration="204000" />
     </task>
     <task id="LOCAL-00001" summary="Reorganized folders and added instructions to each class">
       <created>1680302760774</created>
@@ -201,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681852893029</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Reorganized packages and classes according to HackerRank subdomains">
+      <created>1681854031245</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681854031245</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +230,8 @@
     <MESSAGE value="Added Method Overriding exercise" />
     <MESSAGE value="Added Method Overriding II exercise" />
     <MESSAGE value="Added Currency Formatter exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Currency Formatter exercise" />
+    <MESSAGE value="Reorganized packages and classes according to HackerRank subdomains" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reorganized packages and classes according to HackerRank subdomains" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$JavaList.ic" NAME="JavaList Coverage Results" MODIFIED="1681167040318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -1,4 +1,4 @@
-package objectorientedprogramming;
+package oop;
 
 class Sports{
 
