@@ -1,5 +1,5 @@
 /*
-Given an array of  integers, find and print its number of negative subarrays on a new line.
+Given an array of n integers, find and print its number of negative subarrays on a new line.
  */
 
 package datastructures;
