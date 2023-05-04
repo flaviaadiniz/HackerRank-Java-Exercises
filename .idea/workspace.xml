@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Reorganized packages and classes according to HackerRank subdomains">
+    <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Added JavaIterator exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectorientedprogramming/InheritanceI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/InheritanceI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectorientedprogramming/InheritanceII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/InheritanceII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectorientedprogramming/MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/MethodOverriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectorientedprogramming/MethodOverridingII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/MethodOverridingII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/SubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/SubArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +89,11 @@
       <workItem from="1681165612143" duration="5807000" />
       <workItem from="1681744275697" duration="5999000" />
       <workItem from="1681911005550" duration="2010000" />
-      <workItem from="1682297895615" duration="204000" />
+      <workItem from="1682297895615" duration="751000" />
+      <workItem from="1682525081011" duration="1249000" />
+      <workItem from="1682716078680" duration="1096000" />
+      <workItem from="1682962989893" duration="4080000" />
+      <workItem from="1683162168418" duration="1856000" />
     </task>
     <task id="LOCAL-00001" summary="Reorganized folders and added instructions to each class">
       <created>1680302760774</created>
@@ -199,7 +200,56 @@
       <option name="project" value="LOCAL" />
       <updated>1681854031245</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Reorganized packages and classes according to HackerRank subdomains">
+      <created>1682298174279</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682298174279</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added AbstractClass exercise">
+      <created>1682298556642</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682298556642</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added JavaGenerics exercise">
+      <created>1682733865565</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1682733865565</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added JavaInterface exercise">
+      <created>1682964948018</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1682964948018</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added InstanceOf exercise">
+      <created>1682965603495</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1682965603495</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added JavaIterator exercise">
+      <created>1682966579395</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1682966579395</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added JavaIterator exercise">
+      <created>1682966709051</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1682966709051</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +281,12 @@
     <MESSAGE value="Added Method Overriding II exercise" />
     <MESSAGE value="Added Currency Formatter exercise" />
     <MESSAGE value="Reorganized packages and classes according to HackerRank subdomains" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reorganized packages and classes according to HackerRank subdomains" />
+    <MESSAGE value="Added AbstractClass exercise" />
+    <MESSAGE value="Added JavaGenerics exercise" />
+    <MESSAGE value="Added JavaInterface exercise" />
+    <MESSAGE value="Added InstanceOf exercise" />
+    <MESSAGE value="Added JavaIterator exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added JavaIterator exercise" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$JavaList.ic" NAME="JavaList Coverage Results" MODIFIED="1681167040318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
