@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Added JavaIterator exercise">
+    <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Added JavaSubArray exercise">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/MyCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/SubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/SubArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,11 @@
       <workItem from="1682525081011" duration="1249000" />
       <workItem from="1682716078680" duration="1096000" />
       <workItem from="1682962989893" duration="4080000" />
-      <workItem from="1683162168418" duration="1856000" />
+      <workItem from="1683162168418" duration="2896000" />
+      <workItem from="1683295255106" duration="609000" />
+      <workItem from="1683854821598" duration="46000" />
+      <workItem from="1691367393488" duration="771000" />
+      <workItem from="1691622587965" duration="1295000" />
     </task>
     <task id="LOCAL-00001" summary="Reorganized folders and added instructions to each class">
       <created>1680302760774</created>
@@ -249,7 +253,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682966709051</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Added JavaSubArray exercise">
+      <created>1683164822166</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1683164822166</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added JavaSubArray exercise">
+      <created>1683164829322</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1683164829322</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +304,8 @@
     <MESSAGE value="Added JavaInterface exercise" />
     <MESSAGE value="Added InstanceOf exercise" />
     <MESSAGE value="Added JavaIterator exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added JavaIterator exercise" />
+    <MESSAGE value="Added JavaSubArray exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added JavaSubArray exercise" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$JavaList.ic" NAME="JavaList Coverage Results" MODIFIED="1681167040318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
