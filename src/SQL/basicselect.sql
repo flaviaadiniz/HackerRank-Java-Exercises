@@ -122,3 +122,17 @@ ORDER BY city
 SELECT name FROM students
 WHERE marks > 75
 ORDER BY RIGHT(name, 3), id
+
+
+/* 19. Write a query that prints a list of employee names (i.e.: the name attribute) from the Employee table in alphabetical order. */
+
+SELECT name FROM employee
+ORDER BY name
+
+
+/* 20. Write a query that prints a list of employee names (i.e.: the name attribute) for employees in Employee having a salary greater than  per month who have been employees for less than  months. Sort your result by ascending employee_id. */
+
+SELECT name FROM employee
+WHERE salary > 2000 
+   AND months < 10
+ORDER BY employee_id ASC
