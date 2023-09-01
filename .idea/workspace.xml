@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="607f4927-2603-4dc6-bbb7-bec472c8d0ed" name="Changes" comment="Added JavaSubArray exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/MyCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SQL/basicsql.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +98,7 @@
       <workItem from="1683854821598" duration="46000" />
       <workItem from="1691367393488" duration="771000" />
       <workItem from="1691622587965" duration="1295000" />
+      <workItem from="1691792557015" duration="209000" />
     </task>
     <task id="LOCAL-00001" summary="Reorganized folders and added instructions to each class">
       <created>1680302760774</created>
