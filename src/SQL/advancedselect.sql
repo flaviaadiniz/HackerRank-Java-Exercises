@@ -11,6 +11,6 @@ CASE
     WHEN A = B OR B = C OR A = C THEN 'Isosceles'
     ELSE 'Scalene'
 END
-from triangles
+FROM triangles;
 
 /* 2.  */

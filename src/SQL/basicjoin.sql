@@ -4,7 +4,7 @@ Note: CITY.CountryCode and COUNTRY.Code are matching key columns.*/
 SELECT SUM(city.population)
 FROM city
 JOIN country ON city.countrycode = country.code
-WHERE continent = 'Asia'
+WHERE continent = 'Asia';
 
 
 /* 2. Given the CITY and COUNTRY tables, query the names of all cities where the CONTINENT is 'Africa'.
@@ -15,7 +15,7 @@ FROM city
 JOIN country
 ON city.countrycode = country.code
 WHERE continent = "Africa"
-ORDER BY city.name
+ORDER BY city.name;
 
 
 /* 3. Given the CITY and COUNTRY tables, query the names of all the continents (COUNTRY.Continent) and their respective average city populations (CITY.Population) rounded down to the nearest integer.
@@ -26,7 +26,7 @@ SELECT DISTINCT country.continent, FLOOR(AVG(city.population))
 FROM country
 JOIN city
 ON country.code = city.countrycode
-GROUP BY continent
+GROUP BY continent;
 
 
 /* 4. You are given two tables: Students and Grades. Students contains three columns ID, Name and Marks.
@@ -40,7 +40,7 @@ SELECT CASE
     ELSE null
 END AS n, grade, marks FROM students s
 JOIN grades g ON s.marks BETWEEN g.min_mark AND g.max_mark
-ORDER BY grade desc, name
+ORDER BY grade desc, name;
 
 
 /* 5. Julia just finished conducting a coding contest, and she needs your help assembling the leaderboard! Write a query to print the respective hacker_id and name of hackers who achieved full scores for more than one challenge. Order your output in descending order by the total number of challenges in which the hacker earned a full score. If more than one hacker received full scores in same number of challenges, then sort them by ascending hacker_id. */
@@ -56,4 +56,4 @@ JOIN difficulty
 WHERE submissions.score = difficulty.score
 GROUP BY hacker_id, hackers.name
     HAVING COUNT(hackers.name) > 1
-ORDER BY COUNT(hackers.name) DESC, hacker_id
+ORDER BY COUNT(hackers.name) DESC, hacker_id;
